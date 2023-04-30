@@ -120,4 +120,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamalaSumanth0262&show_icons=true&theme=radical&count_private=true" />
-</p>
+
+&nbsp;
+
+![](https://komarev.com/ghpvc/?username=SamalaSumanth0262&label=PROFILE%20VIEWS)
