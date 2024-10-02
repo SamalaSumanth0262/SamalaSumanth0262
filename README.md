@@ -100,7 +100,6 @@
 
 &nbsp;
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SamalaSumanth0262&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamalaSumanth0262&show_icons=true&theme=radical&count_private=true" />
 
 &nbsp;
