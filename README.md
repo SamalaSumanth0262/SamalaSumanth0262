@@ -1,7 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>👋 </h2>
 
 ## Social Presence 🤝
-[<img src="https://img.shields.io/badge/SamalaSumanth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samala-sumanth-82431161/)
+[<img src="https://img.shields.io/badge/SamalaSumanth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://uk.linkedin.com/in/sumanth-samala-82431161)
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/samalasumanth0262)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chintusamala96@gmail.com"/>](mailto:chintusamala96@gmail.com)
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://java.sumanthsamala.com)
