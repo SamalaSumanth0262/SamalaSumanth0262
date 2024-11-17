@@ -1,20 +1,17 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>👋 </h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 ## Social Presence 🤝
-
-[<img src="https://img.shields.io/badge/SamalaSumanth -0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samala-sumanth-82431161/)
+[<img src="https://img.shields.io/badge/SamalaSumanth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samala-sumanth-82431161/)
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/samalasumanth0262)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chintusamala96@gmail.com"/>](mailto:chintusamala96@gmail.com)
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://sumanthsamala.netlify.app)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://java.sumanthsamala.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/SamalaSumanth0262)
 
 ---
 
 ## About Me 🙋
 
-&nbsp;&nbsp;&nbsp; I am a full stack developer with a passion driven development having 4+ years of experience. I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects. Currently Working on [<img src="https://img.shields.io/badge/ChatSonic Gem-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">](https://rubygems.org/gems/chatsonic). Feel free to raise PR on this gem 😉
+&nbsp;&nbsp;&nbsp; I am a full stack developer with a passion driven development having **5+ years of experience.** I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects. Currently Working on Java Spring Boot building microservices.
 
 ## Skill Set 💪
 
@@ -22,6 +19,8 @@
 
 #### **Top Programming Languages:**
 
+[<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />]()
 [<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />]()
@@ -38,7 +37,7 @@
 
 #### **Libraries and Frameworks:**
 
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>]()
 [<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />]()
@@ -67,12 +66,15 @@
 
 #### **Infrastructure:**
 
+[<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />]()
+
 
 &nbsp;
 
@@ -99,14 +101,11 @@
 ---
 
 &nbsp;
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamalaSumanth0262&show_icons=true&theme=radical&count_private=true" />
-
-&nbsp;
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamalaSumanth0262&show_icons=true&theme=radical&count_private=true" />
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamalaSumanth0262&show_icons=true&theme=radical&count_private=true" />
 </p>
+&nbsp;
 
 &nbsp;
 
@@ -119,7 +118,11 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamalaSumanth0262&show_icons=true&theme=radical&count_private=true" />
-
+</p>
 &nbsp;
 
-![](https://komarev.com/ghpvc/?username=SamalaSumanth0262&label=PROFILE%20VIEWS)
+<p align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=SamalaSumanth0262&label=PROFILE%20VIEWS" />
+</p>
+
